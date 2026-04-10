@@ -155,4 +155,5 @@ Vfront is huge! This because on 60Hz pixel refresh rate is the same as on 120Hz 
 So display just skip whole frame Vpol+Vfront+Vactive+Vback and again Vfront for normal frame.
 
 
+https://bbs.archlinux.org/viewtopic.php?id=303434
 https://github.com/colorcube/Linux-on-Honor-Magicbook-14-Pro/issues/16
